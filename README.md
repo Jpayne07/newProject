@@ -1,2 +1,2 @@
-# newProject
+# git_practice
 Skip
